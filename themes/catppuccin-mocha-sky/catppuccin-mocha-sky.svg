@@ -284,71 +284,71 @@
  <path id="slider-toggled-bottomright" style="fill:#89DCEB;fill-rule:evenodd" d="m 530,47.999756 c 6.648,0 12,-5.352 12,-12 h -12 z"/>
  <path id="slider-normal-bottomleft" style="opacity:0.3;fill-rule:evenodd" d="m 499,48.999756 c -6.648,0 -12,-5.352 -12,-12 h 12 z"/>
  <path id="slider-normal-bottomright" style="opacity:0.3;fill-rule:evenodd" d="m 499,48.999756 c 6.648,0 12,-5.352 12,-12 h -12 z"/>
- <rect id="scrollbarslider-normal" style="fill:#000000" width="1" height="10" x="225" y="469"/>
+ <rect id="scrollbarslider-normal" style="fill:#202020" width="1" height="10" x="225" y="469"/>
  <g id="scrollbarslider-normal-right" transform="matrix(0.75,0,0,1,220.25,461.99976)">
-  <path style="fill:#000000;fill-rule:evenodd" d="m 9,7 v 10 h 4 V 7 Z"/>
-  <rect style="opacity:0;fill:#000000" width="1" height="10" x="29" y="20" transform="matrix(1.3333333,0,0,1,-25.666667,-13)"/>
+  <path style="fill:#202020;fill-rule:evenodd" d="m 9,7 v 10 h 4 V 7 Z"/>
+  <rect style="opacity:0;fill:#202020" width="1" height="10" x="29" y="20" transform="matrix(1.3333333,0,0,1,-25.666667,-13)"/>
  </g>
  <g id="scrollbarslider-normal-topright" transform="matrix(0.75,0,0,0.75,220.25,462.74976)">
-  <rect style="opacity:0;fill:#000000" width="4" height="4" x="26" y="15" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-18.333333)"/>
-  <path style="fill:#000000;fill-rule:evenodd" d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"/>
+  <rect style="opacity:0;fill:#202020" width="4" height="4" x="26" y="15" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-18.333333)"/>
+  <path style="fill:#202020;fill-rule:evenodd" d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"/>
  </g>
  <g id="scrollbarslider-normal-bottomright" transform="matrix(0.75,0,0,0.75,220.25,467.24976)">
-  <rect style="opacity:0;fill:#000000" width="4" height="4" x="26" y="31" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-24.333333)"/>
-  <path style="fill:#000000;fill-rule:evenodd" d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"/>
+  <rect style="opacity:0;fill:#202020" width="4" height="4" x="26" y="31" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-24.333333)"/>
+  <path style="fill:#202020;fill-rule:evenodd" d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"/>
  </g>
  <g id="scrollbarslider-normal-left" transform="matrix(-0.75,0,0,1,230.75,461.99976)">
-  <path style="fill:#000000;fill-rule:evenodd" d="m 9,7 v 10 h 4 V 7 Z"/>
-  <rect style="opacity:0;fill:#000000" width="1" height="10" x="19" y="20" transform="matrix(-1.3333333,0,0,1,39.666667,-13)"/>
+  <path style="fill:#202020;fill-rule:evenodd" d="m 9,7 v 10 h 4 V 7 Z"/>
+  <rect style="opacity:0;fill:#202020" width="1" height="10" x="19" y="20" transform="matrix(-1.3333333,0,0,1,39.666667,-13)"/>
  </g>
  <g id="scrollbarslider-normal-topleft" transform="matrix(-0.75,0,0,0.75,230.75,462.74976)">
-  <rect style="opacity:0;fill:#000000" width="4" height="4" x="19" y="15" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-18.333333)"/>
-  <path style="fill:#000000;fill-rule:evenodd" d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"/>
+  <rect style="opacity:0;fill:#202020" width="4" height="4" x="19" y="15" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-18.333333)"/>
+  <path style="fill:#202020;fill-rule:evenodd" d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"/>
  </g>
  <g id="scrollbarslider-normal-bottomleft" transform="matrix(-0.75,0,0,0.75,230.75,467.24976)">
-  <rect style="opacity:0;fill:#000000" width="4" height="4" x="19" y="31" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-24.333333)"/>
-  <path style="fill:#000000;fill-rule:evenodd" d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"/>
+  <rect style="opacity:0;fill:#202020" width="4" height="4" x="19" y="31" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-24.333333)"/>
+  <path style="fill:#202020;fill-rule:evenodd" d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"/>
  </g>
  <g id="scrollbarslider-normal-top" transform="matrix(0,-0.75,-0.1,0,226.7,474.74976)">
-  <rect style="opacity:0.01;fill:#000000" width="1" height="4" x="24" y="15" transform="matrix(0,-10,-1.3333333,0,34.333333,257)"/>
-  <path style="fill:#000000;fill-rule:evenodd" d="m 9,7 v 10 h 4 V 7 Z"/>
+  <rect style="opacity:0.01;fill:#202020" width="1" height="4" x="24" y="15" transform="matrix(0,-10,-1.3333333,0,34.333333,257)"/>
+  <path style="fill:#202020;fill-rule:evenodd" d="m 9,7 v 10 h 4 V 7 Z"/>
  </g>
  <g id="scrollbarslider-normal-bottom" transform="matrix(0,0.75,-0.1,0,226.7,473.24976)">
-  <rect style="opacity:0;fill:#000000" width="1" height="4" x="24" y="31" transform="matrix(0,-10,1.3333333,0,-32.333333,257)"/>
-  <path style="fill:#000000;fill-rule:evenodd" d="m 9,7 v 10 h 4 V 7 Z"/>
+  <rect style="opacity:0;fill:#202020" width="1" height="4" x="24" y="31" transform="matrix(0,-10,1.3333333,0,-32.333333,257)"/>
+  <path style="fill:#202020;fill-rule:evenodd" d="m 9,7 v 10 h 4 V 7 Z"/>
  </g>
- <rect id="scrollbarslider-focused" style="fill:#000000" width="1" height="10" x="240" y="469"/>
+ <rect id="scrollbarslider-focused" style="fill:#202020" width="1" height="10" x="240" y="469"/>
  <g id="scrollbarslider-focused-right" transform="matrix(0.75,0,0,1,235.25,461.99976)">
-  <path style="fill:#000000;fill-rule:evenodd" d="m 9,7 v 10 h 4 V 7 Z"/>
-  <rect style="opacity:0;fill:#000000" width="1" height="10" x="29" y="42" transform="matrix(1.3333333,0,0,1,-25.666667,-35)"/>
+  <path style="fill:#202020;fill-rule:evenodd" d="m 9,7 v 10 h 4 V 7 Z"/>
+  <rect style="opacity:0;fill:#202020" width="1" height="10" x="29" y="42" transform="matrix(1.3333333,0,0,1,-25.666667,-35)"/>
  </g>
  <g id="scrollbarslider-focused-topright" transform="matrix(0.75,0,0,0.75,235.25,462.74976)">
-  <rect style="opacity:0;fill:#000000" width="4" height="4" x="26" y="37" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-47.666667)"/>
-  <path style="fill:#000000;fill-rule:evenodd" d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"/>
+  <rect style="opacity:0;fill:#202020" width="4" height="4" x="26" y="37" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-47.666667)"/>
+  <path style="fill:#202020;fill-rule:evenodd" d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"/>
  </g>
- <g id="scrollbarslider-focused-bottomright" style="fill:#000000" transform="matrix(0.75,0,0,0.75,235.25,467.24976)">
-  <path style="fill:#000000;fill-rule:evenodd" d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"/>
-  <rect style="opacity:0;fill:#000000" width="4" height="4" x="26" y="53" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-53.666667)"/>
+ <g id="scrollbarslider-focused-bottomright" style="fill:#202020" transform="matrix(0.75,0,0,0.75,235.25,467.24976)">
+  <path style="fill:#202020;fill-rule:evenodd" d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"/>
+  <rect style="opacity:0;fill:#202020" width="4" height="4" x="26" y="53" transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-53.666667)"/>
  </g>
  <g id="scrollbarslider-focused-left" transform="matrix(-0.75,0,0,1,245.75,461.99976)">
-  <path style="fill:#000000;fill-rule:evenodd" d="m 9,7 v 10 h 4 V 7 Z"/>
-  <rect style="opacity:0;fill:#000000" width="1" height="10" x="19" y="42" transform="matrix(-1.3333333,0,0,1,39.666667,-35)"/>
+  <path style="fill:#202020;fill-rule:evenodd" d="m 9,7 v 10 h 4 V 7 Z"/>
+  <rect style="opacity:0;fill:#202020" width="1" height="10" x="19" y="42" transform="matrix(-1.3333333,0,0,1,39.666667,-35)"/>
  </g>
  <g id="scrollbarslider-focused-topleft" transform="matrix(-0.75,0,0,0.75,245.75,462.74976)">
-  <rect style="opacity:0;fill:#000000" width="4" height="4" x="19" y="37" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-47.666667)"/>
-  <path style="fill:#000000;fill-rule:evenodd" d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"/>
+  <rect style="opacity:0;fill:#202020" width="4" height="4" x="19" y="37" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-47.666667)"/>
+  <path style="fill:#202020;fill-rule:evenodd" d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"/>
  </g>
  <g id="scrollbarslider-focused-bottomleft" transform="matrix(-0.75,0,0,0.75,245.75,467.24976)">
-  <rect style="opacity:0;fill:#000000" width="4" height="4" x="19" y="53" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-53.666667)"/>
-  <path style="fill:#000000;fill-rule:evenodd" d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"/>
+  <rect style="opacity:0;fill:#202020" width="4" height="4" x="19" y="53" transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-53.666667)"/>
+  <path style="fill:#202020;fill-rule:evenodd" d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"/>
  </g>
  <g id="scrollbarslider-focused-top" transform="matrix(0,-0.75,-0.1,0,241.7,474.74976)">
-  <rect style="opacity:0;fill:#000000" width="1" height="4" x="24" y="37" transform="matrix(0,-10,-1.3333333,0,63.666667,257)"/>
-  <path style="fill:#000000;fill-rule:evenodd" d="m 9,7 v 10 h 4 V 7 Z"/>
+  <rect style="opacity:0;fill:#202020" width="1" height="4" x="24" y="37" transform="matrix(0,-10,-1.3333333,0,63.666667,257)"/>
+  <path style="fill:#202020;fill-rule:evenodd" d="m 9,7 v 10 h 4 V 7 Z"/>
  </g>
  <g id="scrollbarslider-focused-bottom" transform="matrix(0,0.75,-0.1,0,241.7,473.24976)">
-  <rect style="opacity:0;fill:#000000" width="1" height="4" x="24" y="53" transform="matrix(0,-10,1.3333333,0,-61.666667,257)"/>
-  <path style="fill:#000000;fill-rule:evenodd" d="m 9,7 v 10 h 4 V 7 Z"/>
+  <rect style="opacity:0;fill:#202020" width="1" height="4" x="24" y="53" transform="matrix(0,-10,1.3333333,0,-61.666667,257)"/>
+  <path style="fill:#202020;fill-rule:evenodd" d="m 9,7 v 10 h 4 V 7 Z"/>
  </g>
  <rect id="scrollbarslider-pressed" style="fill:#89DCEB" width="1" height="10" x="255" y="469"/>
  <g id="scrollbarslider-pressed-right" transform="matrix(0.75,0,0,1,250.25,461.99976)">
