@@ -693,7 +693,7 @@
  <rect id="progress-pattern-disabled" style="opacity:0.00100002;fill:#202020" width="20" height="20" x="455" y="23"/>
  <g id="header-separator" transform="translate(-26,-19.028994)">
   <rect id="header-separator0" style="fill-opacity:0" width="2" height="36" x="608" y="533.03"/>
-  <path style="opacity:0.3" d="m 608,533.02875 h 0.98586 v 36 H 608 Z"/>
+  <path style="fill:#303030" d="m 608,533.02875 h 0.98586 v 36 H 608 Z"/>
  </g>
  <g id="toolbar-handle" transform="matrix(2.4000001,0,0,1,-869.0001,-19.028994)">
   <rect style="fill-opacity:0" width="2" height="36" x="608" y="533.03"/>
