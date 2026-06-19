@@ -1,4 +1,4 @@
-name: whiskers
+name: check
 
 on:
   workflow_dispatch:
@@ -8,10 +8,28 @@ on:
     branches: [main]
 
 jobs:
-  run:
-    uses: catppuccin/actions/.github/workflows/whiskers-check.yml@v1
-    with:
-      args: |
-        templates/kvantum.tera
-        templates/svg.tera
-    secrets: inherit
+  smoke:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check theme files
+        run: |
+          for theme_dir in themes/*; do
+            theme="$(basename "${theme_dir}")"
+
+            test -f "${theme_dir}/${theme}.kvconfig"
+            test -f "${theme_dir}/${theme}.svg"
+          done
+
+      - name: Check release archive shape
+        run: |
+          version="0.0.0"
+          archive="kvantum-black-${version}.tar.gz"
+
+          git archive --format=tar --prefix="kvantum-black-${version}/" HEAD \
+            | gzip -9n > "${archive}"
+
+          tar -tzf "${archive}" | grep -qx "kvantum-black-${version}/themes/"
