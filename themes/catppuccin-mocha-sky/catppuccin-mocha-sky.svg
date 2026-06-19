@@ -1557,30 +1557,30 @@
  <rect id="tab-normal-bottom" style="fill-opacity:0" width="10" height="10" x="303" y="292.5"/>
  <rect id="tab-normal-bottomright" style="fill-opacity:0" width="10" height="10" x="313" y="292.5"/>
  <rect id="tab-normal-bottomleft" style="fill-opacity:0" width="10" height="10" x="293" y="292.5"/>
- <path id="tab-focused" style="fill:#2A2A2A;fill-rule:evenodd" d="m 402.00001,275.99988 v 32 h 32 v -32 z"/>
+ <path id="tab-focused" style="fill:#303030;fill-rule:evenodd" d="m 402.00001,275.99988 v 32 h 32 v -32 z"/>
  <g id="tab-focused-left" transform="matrix(0.8,0,0,0.98461538,381.00021,227.9983)">
-  <path style="fill:#2A2A2A;fill-rule:evenodd" d="M 26.25,81.2514 V 48.7516 h -5 v 32.5 z"/>
+  <path style="fill:#303030;fill-rule:evenodd" d="M 26.25,81.2514 V 48.7516 h -5 v 32.5 z"/>
   <path style="fill:#000000" d="m 21.25,48.7516 v 32.5 h 1.2497 v -32.5 z"/>
  </g>
  <g id="tab-focused-topleft" transform="matrix(0.8,0,0,0.8,381.00001,238.9986)">
-  <path style="fill:#2A2A2A;fill-rule:evenodd" d="m 26.25,41.2516 h -5 v 5 h 5 z"/>
+  <path style="fill:#303030;fill-rule:evenodd" d="m 26.25,41.2516 h -5 v 5 h 5 z"/>
   <path style="fill:#000000" d="m 26.25,41.2516 h -5 v 5 h 1.2503 v -3.75 H 26.25 Z"/>
  </g>
  <g id="tab-focused-top" transform="matrix(0,0.8,-0.98461538,0,482.00139,254.99988)">
-  <path style="fill:#2A2A2A;fill-rule:evenodd" d="M 26.25,81.2514 V 48.7516 h -5 v 32.5 z"/>
+  <path style="fill:#303030;fill-rule:evenodd" d="M 26.25,81.2514 V 48.7516 h -5 v 32.5 z"/>
   <path style="fill:#000000" d="m 21.25,48.7516 v 32.5 h 1.2497 v -32.5 z"/>
  </g>
  <g id="tab-focused-right" transform="matrix(-0.8,0,0,0.98461538,455.00011,227.99831)">
-  <path style="fill:#2A2A2A;fill-rule:evenodd" d="M 26.25,81.2514 V 48.7516 h -5 v 32.5 z"/>
+  <path style="fill:#303030;fill-rule:evenodd" d="M 26.25,81.2514 V 48.7516 h -5 v 32.5 z"/>
   <path style="fill:#000000" d="m 21.25,48.7516 v 32.5 h 1.2497 v -32.5 z"/>
  </g>
  <g id="tab-focused-bottomleft" transform="matrix(1,0,0,0.66666667,227.99991,-302.33346)">
-  <path style="fill:#2A2A2A;fill-rule:evenodd" d="m 174,921.5 h -4 l 1e-4,-6 H 174 Z"/>
+  <path style="fill:#303030;fill-rule:evenodd" d="m 174,921.5 h -4 l 1e-4,-6 H 174 Z"/>
   <path style="fill:#000000" d="m 171,921.5 h -1 l 1e-4,-6 h 1 z"/>
  </g>
- <path id="tab-focused-bottom" style="fill:#2A2A2A;fill-rule:evenodd" d="m 402.00021,307.99988 h 31.9998 v 4 h -32 z"/>
+ <path id="tab-focused-bottom" style="fill:#303030;fill-rule:evenodd" d="m 402.00021,307.99988 h 31.9998 v 4 h -32 z"/>
  <g id="tab-focused-bottomright" transform="matrix(-1,0,0,0.66666667,608.00021,-302.33356)">
-  <path style="fill:#2A2A2A;fill-rule:evenodd" d="M 174.0001,921.5 H 170 l 1e-4,-6 h 4 z"/>
+  <path style="fill:#303030;fill-rule:evenodd" d="M 174.0001,921.5 H 170 l 1e-4,-6 h 4 z"/>
   <path style="fill:#000000" d="M 171.0001,921.5 H 170 l 1e-4,-6 h 1.0001 z"/>
  </g>
  <rect id="floating-tab-normal" style="fill-opacity:0" width="10" height="10" x="350.5" y="285"/>
@@ -1601,7 +1601,7 @@
   <path style="fill:#000000" d="m 26.25,41.2516 h -5 v 5 h 1.2503 v -3.75 H 26.25 Z"/>
  </g>
  <g id="tab-focused-topright" transform="matrix(-0.8,0,0,0.8,455.00001,238.9986)">
-  <path style="fill:#2A2A2A;fill-rule:evenodd" d="m 26.25,41.2516 h -5 v 5 h 5 z"/>
+  <path style="fill:#303030;fill-rule:evenodd" d="m 26.25,41.2516 h -5 v 5 h 5 z"/>
   <path style="fill:#000000" d="m 26.25,41.2516 h -5 v 5 h 1.2503 v -3.75 H 26.25 Z"/>
  </g>
  <path id="floating-tab-toggled" style="fill:#202020;fill-rule:evenodd" d="m 454.0001,224.99987 v 32 h 32 v -32 z"/>
@@ -1630,30 +1630,30 @@
   <path style="fill:#202020;fill-rule:evenodd" d="M 174.0001,921.5 H 170 l 1e-4,-6 h 4 z"/>
   <path style="fill:#000000" d="M 171.0001,921.5 H 170 l 1e-4,-6 h 1.0001 z"/>
  </g>
- <path id="floating-tab-focused" style="fill:#2A2A2A;fill-rule:evenodd" d="m 402.0001,224.99987 v 32 h 32 v -32 z"/>
+ <path id="floating-tab-focused" style="fill:#303030;fill-rule:evenodd" d="m 402.0001,224.99987 v 32 h 32 v -32 z"/>
  <g id="floating-tab-focused-left" transform="matrix(0.8,0,0,0.98461538,381.0003,176.99829)">
-  <path style="fill:#2A2A2A;fill-rule:evenodd" transform="matrix(1.25,0,0,1.015625,-561.25026,-385.93577)" d="m 467,428 v 32 h 3 v -32 z"/>
+  <path style="fill:#303030;fill-rule:evenodd" transform="matrix(1.25,0,0,1.015625,-561.25026,-385.93577)" d="m 467,428 v 32 h 3 v -32 z"/>
   <path style="fill:#000000" d="m 21.25,48.7516 v 32.5 h 1.2497 v -32.5 z"/>
  </g>
  <g id="floating-tab-focused-topleft" transform="matrix(0.8,0,0,0.8,381.0001,187.99859)">
-  <path style="fill:#2A2A2A;fill-rule:evenodd" transform="matrix(1.25,0,0,1.25,-561.25001,-488.74824)" d="m 467,425 v 3 h 3 v -3 z"/>
+  <path style="fill:#303030;fill-rule:evenodd" transform="matrix(1.25,0,0,1.25,-561.25001,-488.74824)" d="m 467,425 v 3 h 3 v -3 z"/>
   <path style="fill:#000000" d="m 26.25,41.2516 h -5 v 5 h 1.2503 v -3.75 H 26.25 Z"/>
  </g>
  <g id="floating-tab-focused-top" transform="matrix(0,0.8,-0.98461538,0,482.00148,203.99987)">
-  <path style="fill:#2A2A2A;fill-rule:evenodd" transform="matrix(0,-1.015625,1.25,0,-508.74984,558.59516)" d="m 470,425 v 3 h 32 v -3 z"/>
+  <path style="fill:#303030;fill-rule:evenodd" transform="matrix(0,-1.015625,1.25,0,-508.74984,558.59516)" d="m 470,425 v 3 h 32 v -3 z"/>
   <path style="fill:#000000" d="m 21.25,48.7516 v 32.5 h 1.2497 v -32.5 z"/>
  </g>
  <g id="floating-tab-focused-right" transform="matrix(-0.8,0,0,0.98461538,455.0002,176.9983)">
-  <path style="fill:#2A2A2A;fill-rule:evenodd" transform="matrix(-1.25,0,0,1.015625,653.75014,-385.93578)" d="m 502,428 v 32 h 3 v -32 z"/>
+  <path style="fill:#303030;fill-rule:evenodd" transform="matrix(-1.25,0,0,1.015625,653.75014,-385.93578)" d="m 502,428 v 32 h 3 v -32 z"/>
   <path style="fill:#000000" d="m 21.25,48.7516 v 32.5 h 1.2497 v -32.5 z"/>
  </g>
  <g id="floating-tab-focused-bottomleft" transform="matrix(1,0,0,0.66666667,228,-353.33347)">
-  <path style="fill:#2A2A2A;fill-rule:evenodd" transform="matrix(1,0,0,1.5,-295.99991,225.5002)" d="m 467,460 v 4 h 3 v -4 z"/>
+  <path style="fill:#303030;fill-rule:evenodd" transform="matrix(1,0,0,1.5,-295.99991,225.5002)" d="m 467,460 v 4 h 3 v -4 z"/>
   <path style="fill:#000000" d="m 171,921.5 h -1 l 1e-4,-6 h 1 z"/>
  </g>
- <path id="floating-tab-focused-bottom" style="fill:#2A2A2A;fill-rule:evenodd" d="m 402.0003,256.99987 h 31.9998 v 4 h -32 z"/>
+ <path id="floating-tab-focused-bottom" style="fill:#303030;fill-rule:evenodd" d="m 402.0003,256.99987 h 31.9998 v 4 h -32 z"/>
  <g id="floating-tab-focused-bottomright" transform="matrix(-1,0,0,0.66666667,608.0003,-353.33357)">
-  <path style="fill:#2A2A2A;fill-rule:evenodd" transform="matrix(-1,0,0,1.5,676.00021,225.50035)" d="m 502,460 v 4 h 3 v -4 z"/>
+  <path style="fill:#303030;fill-rule:evenodd" transform="matrix(-1,0,0,1.5,676.00021,225.50035)" d="m 502,460 v 4 h 3 v -4 z"/>
   <path style="fill:#000000" d="M 171.0001,921.5 H 170 l 1e-4,-6 h 1.0001 z"/>
  </g>
  <g id="floating-tab-toggled-topright" transform="matrix(-0.8,0,0,0.8,507.0001,187.99859)">
@@ -1661,7 +1661,7 @@
   <path style="fill:#000000" d="m 26.25,41.2516 h -5 v 5 h 1.2503 v -3.75 H 26.25 Z"/>
  </g>
  <g id="floating-tab-focused-topright" transform="matrix(-0.8,0,0,0.8,455.0001,187.99859)">
-  <path style="fill:#2A2A2A;fill-rule:evenodd" transform="matrix(-1.25,0,0,1.25,653.75001,-488.74824)" d="m 502,425 v 3 h 3 v -3 z"/>
+  <path style="fill:#303030;fill-rule:evenodd" transform="matrix(-1.25,0,0,1.25,653.75001,-488.74824)" d="m 502,425 v 3 h 3 v -3 z"/>
   <path style="fill:#000000" d="m 26.25,41.2516 h -5 v 5 h 1.2503 v -3.75 H 26.25 Z"/>
  </g>
  <path id="menuitem-normal-top" style="fill:#000000;fill-rule:evenodd" d="m 728,67 h 8 v 4 h -8 z"/>
@@ -1673,15 +1673,24 @@
  <path id="menuitem-normal-topright" style="fill:#000000;fill-rule:evenodd" d="m 736,67 h 4 v 4 h -4 z"/>
  <path id="menuitem-normal-bottomleft" style="fill:#000000;fill-rule:evenodd" d="m 724,79 h 4 v 4 h -4 z"/>
  <path id="menuitem-normal-bottomright" style="fill:#000000;fill-rule:evenodd" d="m 736,79 h 4 v 4 h -4 z"/>
- <path id="menuitem-focused-top" style="fill:#202020;fill-rule:evenodd" d="m 728,67 h 8 v 4 h -8 z"/>
- <path id="menuitem-focused-bottom" style="fill:#202020;fill-rule:evenodd" d="m 728,79 h 8 v 4 h -8 z"/>
- <path id="menuitem-focused" style="fill:#202020;fill-rule:evenodd" d="m 728,71 h 8 v 8 h -8 z"/>
- <path id="menuitem-focused-right" style="fill:#202020;fill-rule:evenodd" d="m 736,71 h 4 v 8 h -4 z"/>
- <path id="menuitem-focused-left" style="fill:#202020;fill-rule:evenodd" d="m 724,71 h 4 v 8 h -4 z"/>
- <path id="menuitem-focused-topleft" style="fill:#202020;fill-rule:evenodd" d="m 724,67 h 4 v 4 h -4 z"/>
- <path id="menuitem-focused-topright" style="fill:#202020;fill-rule:evenodd" d="m 736,67 h 4 v 4 h -4 z"/>
- <path id="menuitem-focused-bottomleft" style="fill:#202020;fill-rule:evenodd" d="m 724,79 h 4 v 4 h -4 z"/>
- <path id="menuitem-focused-bottomright" style="fill:#202020;fill-rule:evenodd" d="m 736,79 h 4 v 4 h -4 z"/>
+ <path id="menuitem-toggled-top" style="fill:#202020;fill-rule:evenodd" d="m 728,67 h 8 v 4 h -8 z"/>
+ <path id="menuitem-toggled-bottom" style="fill:#202020;fill-rule:evenodd" d="m 728,79 h 8 v 4 h -8 z"/>
+ <path id="menuitem-toggled" style="fill:#202020;fill-rule:evenodd" d="m 728,71 h 8 v 8 h -8 z"/>
+ <path id="menuitem-toggled-right" style="fill:#202020;fill-rule:evenodd" d="m 736,71 h 4 v 8 h -4 z"/>
+ <path id="menuitem-toggled-left" style="fill:#202020;fill-rule:evenodd" d="m 724,71 h 4 v 8 h -4 z"/>
+ <path id="menuitem-toggled-topleft" style="fill:#202020;fill-rule:evenodd" d="m 724,67 h 4 v 4 h -4 z"/>
+ <path id="menuitem-toggled-topright" style="fill:#202020;fill-rule:evenodd" d="m 736,67 h 4 v 4 h -4 z"/>
+ <path id="menuitem-toggled-bottomleft" style="fill:#202020;fill-rule:evenodd" d="m 724,79 h 4 v 4 h -4 z"/>
+ <path id="menuitem-toggled-bottomright" style="fill:#202020;fill-rule:evenodd" d="m 736,79 h 4 v 4 h -4 z"/>
+ <path id="menuitem-pressed-top" style="fill:#303030;fill-rule:evenodd" d="m 728,67 h 8 v 4 h -8 z"/>
+ <path id="menuitem-pressed-bottom" style="fill:#303030;fill-rule:evenodd" d="m 728,79 h 8 v 4 h -8 z"/>
+ <path id="menuitem-pressed" style="fill:#303030;fill-rule:evenodd" d="m 728,71 h 8 v 8 h -8 z"/>
+ <path id="menuitem-pressed-right" style="fill:#303030;fill-rule:evenodd" d="m 736,71 h 4 v 8 h -4 z"/>
+ <path id="menuitem-pressed-left" style="fill:#303030;fill-rule:evenodd" d="m 724,71 h 4 v 8 h -4 z"/>
+ <path id="menuitem-pressed-topleft" style="fill:#303030;fill-rule:evenodd" d="m 724,67 h 4 v 4 h -4 z"/>
+ <path id="menuitem-pressed-topright" style="fill:#303030;fill-rule:evenodd" d="m 736,67 h 4 v 4 h -4 z"/>
+ <path id="menuitem-pressed-bottomleft" style="fill:#303030;fill-rule:evenodd" d="m 724,79 h 4 v 4 h -4 z"/>
+ <path id="menuitem-pressed-bottomright" style="fill:#303030;fill-rule:evenodd" d="m 736,79 h 4 v 4 h -4 z"/>
  <g id="menu-shadow-topleft" transform="translate(17.00002,-189)">
   <path style="opacity:0.3;fill:url(#radialGradient11175)" d="m 515,320 h 10 v 10 h -10 z"/>
   <path style="fill:#000000" d="m 521,330 c -2e-5,-3 1.94498,-4 4,-4 v 4 z"/>
