@@ -232,6 +232,7 @@ frame.bottom=3
 frame.left=3
 frame.right=3
 indicator.size=10
+indicator.element=tab
 text.normal.color=#9399B2
 text.focus.color=#CDD6F4
 text.press.color=#CDD6F4
